@@ -1,2 +1,2 @@
-power bi
+data analytics
 
