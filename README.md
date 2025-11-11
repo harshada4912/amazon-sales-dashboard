@@ -6,6 +6,8 @@ The dashboard enables users (such as sellers, managers, or analysts) to make dat
 
 ## 🎯 Project Objectives
 
+
+
 - To visualize Amazon sales data in an interactive and easy-to-understand format.
 - To identify top-performing products, profitable categories, and seasonal trends.
 - To analyze discounts, profit margins, and revenue growth.
