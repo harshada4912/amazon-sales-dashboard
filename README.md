@@ -1,3 +1,3 @@
-#AmazonSales Dashboard
+#Amazon Sales Dashboard
 
 
